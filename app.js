@@ -1,3 +1,4 @@
-function code() {
+function code(i) {
     console.log("git commit me baby");
+    i++
 }
