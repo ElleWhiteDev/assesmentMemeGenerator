@@ -1,4 +1,5 @@
 function code(i) {
     console.log("git commit me baby");
-    i++
+    i++;
+    backgroundColor = "red";
 }
